@@ -1,0 +1,9 @@
+adafruit-circuitpython-ds3231==1.0.6
+adafruit-circuitpython-pzem004t==1.1.0
+adafruit-circuitpython-rgb-display==3.10.15
+adafruit-circuitpython-displayio==4.11.5
+Pillow==10.1.0
+requests==2.31.0
+python-dotenv==1.0.0
+RPi.GPIO==0.7.0
+adafruit-blinka==8.27.1
